@@ -1,0 +1,60 @@
+{
+  apps(vpcId: $vpcId, language: $lang, ) {
+    numberReturned
+    pageInfo{
+      hasNextPage
+      endCursor
+    }
+    items {
+      appStore
+      contentRatings {
+        categoryKey
+        type
+      }
+      genres
+      id
+      images {
+        GAME_BOX_ART
+        HERO_IMAGE
+        KEY_ART
+        TV_BANNER
+      }
+      computedValues {
+        allKeywords
+      }
+      maxLocalPlayers
+      supportedControls
+      publisherName
+      sortName
+      title
+      variants {
+        appStore
+        id
+        publisherName
+        supportedControls
+        shortName
+        storeUrl
+        gfn {
+          isInLibrary
+          releaseDate
+          status
+          features {
+            ...feature
+          }
+        }
+      }
+    }
+  }
+}
+
+fragment feature on GfnSubscriptionFeature {
+  __typename
+  ... on GfnSubscriptionFeatureValue {
+    key
+    value
+  }
+  ... on GfnSubscriptionFeatureValueList {
+    key
+    values
+  }
+}
