@@ -1,0 +1,199 @@
+{
+    "requestStatus": {
+        "countryCode": null,
+        "unifiedErrorCode": 0,
+        "requestId": null,
+        "serverId": null,
+        "statusDescription": null,
+        "statusCode": 1
+    },
+    "gfnServiceInfo": {
+        "defaultProvider": "NVIDIA",
+        "gfnServiceEndpoints": [
+            {
+                "restrictedDevicesWithSIM": [],
+                "loginProviderDisplayName": "NVIDIA",
+                "streamingServiceUrl": "https://prod.cloudmatchbeta.nvidiagrid.net/",
+                "idpId": "PDiAhv2kJTFeQ7WOPqiQ2tRZ7lGhR2X11dXvM4TZSxg",
+                "redeemRedirectUrl": "https://www.nvidia.com/content/drivers/redirect.asp?page=gfn_pc_redeem_activation_code",
+                "loginProvider": "NVIDIA",
+                "redeemRedirectShortUrl": "nvidia.com/gfn/activate",
+                "loginProviderCode": "NVIDIA",
+                "loginProviderPriority": 1,
+                "mobileNetworkCode": []
+            },
+            {
+                "restrictedDevicesWithSIM": [],
+                "loginProviderDisplayName": "LG U⁺",
+                "streamingServiceUrl": "https://prod.lgu.geforcenow.nvidiagrid.net/",
+                "idpId": "RKXmHOBNRDDanJuCoQX8V30S8KjsxaoW1XkycvLdqG8",
+                "redeemRedirectUrl": null,
+                "loginProvider": "LGUplus",
+                "redeemRedirectShortUrl": null,
+                "loginProviderCode": "LGU",
+                "loginProviderPriority": 2,
+                "mobileNetworkCode": []
+            },
+            {
+                "restrictedDevicesWithSIM": [],
+                "loginProviderDisplayName": "GFN.RU",
+                "streamingServiceUrl": "https://prod.sfm.geforcenow.nvidiagrid.net/",
+                "idpId": "JXD32iicWNHj0MvpwPV4RoThJvKYCJj1NTubcsJDFgc",
+                "redeemRedirectUrl": "https://r.gfn.ru/activate",
+                "loginProvider": "Safmar",
+                "redeemRedirectShortUrl": "r.gfn.ru/activate",
+                "loginProviderCode": "SFM",
+                "loginProviderPriority": 3,
+                "mobileNetworkCode": []
+            },
+            {
+                "restrictedDevicesWithSIM": [],
+                "loginProviderDisplayName": "SoftBank",
+                "streamingServiceUrl": "https://prod.sbk.geforcenow.nvidiagrid.net/",
+                "idpId": "IYn6P5z3oQKeManspu7uvNfwsA1ck3tW8OEfMXV1x90",
+                "redeemRedirectUrl": null,
+                "loginProvider": "SoftBank",
+                "redeemRedirectShortUrl": null,
+                "loginProviderCode": "SBK",
+                "loginProviderPriority": 4,
+                "mobileNetworkCode": []
+            },
+            {
+                "restrictedDevicesWithSIM": [],
+                "loginProviderDisplayName": "au",
+                "streamingServiceUrl": "https://prod.kdd.geforcenow.nvidiagrid.net/",
+                "idpId": "Q1qniNEW0JjufNnXEqzjTONfWoEYAvTdsg5mBRsEork",
+                "redeemRedirectUrl": null,
+                "loginProvider": "KDDI",
+                "redeemRedirectShortUrl": null,
+                "loginProviderCode": "KDD",
+                "loginProviderPriority": 5,
+                "mobileNetworkCode": []
+            },
+            {
+                "restrictedDevicesWithSIM": [],
+                "loginProviderDisplayName": "Taiwan Mobile",
+                "streamingServiceUrl": "https://prod.twm.geforcenow.nvidiagrid.net/",
+                "idpId": "e2SnCkOjoqZiiDRhjSDVv0xzWjJ28vntfo933yWSKx4",
+                "redeemRedirectUrl": null,
+                "loginProvider": "TWM",
+                "redeemRedirectShortUrl": null,
+                "loginProviderCode": "TWM",
+                "loginProviderPriority": 6,
+                "mobileNetworkCode": []
+            },
+            {
+                "restrictedDevicesWithSIM": [],
+                "loginProviderDisplayName": "Zain",
+                "streamingServiceUrl": "https://prod.zai.geforcenow.nvidiagrid.net/",
+                "idpId": "UPWx8p5zwVUqGXorNji6qCzocVGDNWN7rqmPexEvedY",
+                "redeemRedirectUrl": null,
+                "loginProvider": "Zain",
+                "redeemRedirectShortUrl": null,
+                "loginProviderCode": "ZAI",
+                "loginProviderPriority": 7,
+                "mobileNetworkCode": []
+            },
+            {
+                "restrictedDevicesWithSIM": [],
+                "loginProviderDisplayName": "GAME+",
+                "streamingServiceUrl": "https://prod.tkc.geforcenow.nvidiagrid.net/",
+                "idpId": "pC8KYgDzm2TMgkPO1YlOSj8PjhT57JIbdlwDfFZNZFA",
+                "redeemRedirectUrl": null,
+                "loginProvider": "Turkcell",
+                "redeemRedirectShortUrl": null,
+                "loginProviderCode": "TKC",
+                "loginProviderPriority": 8,
+                "mobileNetworkCode": []
+            },
+            {
+                "restrictedDevicesWithSIM": [],
+                "loginProviderDisplayName": "StarHub",
+                "streamingServiceUrl": "https://prod.str.geforcenow.nvidiagrid.net/",
+                "idpId": "QwbAt7Fqmb5vmdOCuXtIlAF3YOACR4rot7xirVFlnkE",
+                "redeemRedirectUrl": null,
+                "loginProvider": "StarHub",
+                "redeemRedirectShortUrl": null,
+                "loginProviderCode": "STR",
+                "loginProviderPriority": 9,
+                "mobileNetworkCode": []
+            },
+            {
+                "restrictedDevicesWithSIM": [],
+                "loginProviderDisplayName": "ABYA",
+                "streamingServiceUrl": "https://prod.aby.geforcenow.nvidiagrid.net/",
+                "idpId": "HVmQH98-CMT7FBuj_X3_QPmEYhJ-zzvFvM3mwmWwczw",
+                "redeemRedirectUrl": null,
+                "loginProvider": "Abya",
+                "redeemRedirectShortUrl": null,
+                "loginProviderCode": "ABY",
+                "loginProviderPriority": 10,
+                "mobileNetworkCode": []
+            },
+            {
+                "restrictedDevicesWithSIM": [],
+                "loginProviderDisplayName": "Pentanet",
+                "streamingServiceUrl": "https://prod.pnt.geforcenow.nvidiagrid.net/",
+                "idpId": "SBcX86bSGvOo6kgTpV_dRtqSs_3uU0hsK3r1JZGQElo",
+                "redeemRedirectUrl": null,
+                "loginProvider": "Pentanet",
+                "redeemRedirectShortUrl": null,
+                "loginProviderCode": "PNT",
+                "loginProviderPriority": 11,
+                "mobileNetworkCode": []
+            },
+            {
+                "restrictedDevicesWithSIM": [],
+                "loginProviderDisplayName": "Jio",
+                "streamingServiceUrl": "https://prod.jio.geforcenow.nvidiagrid.net/",
+                "idpId": "joYAKtTkiB1fXShxuO9GTBqo2C9RhJgg2fGacZo1Ak4",
+                "redeemRedirectUrl": null,
+                "loginProvider": "Jio",
+                "redeemRedirectShortUrl": null,
+                "loginProviderCode": "JIO",
+                "loginProviderPriority": 12,
+                "mobileNetworkCode": []
+            },
+            {
+                "restrictedDevicesWithSIM": [],
+                "loginProviderDisplayName": "XG Edge",
+                "streamingServiceUrl": "https://prod.xge.geforcenow.nvidiagrid.net/",
+                "idpId": "pjXg9XsUbPxhgHqEEeVBu1m9X3tIA2Hh1Y7NsZhKK9s",
+                "redeemRedirectUrl": null,
+                "loginProvider": "XG Edge",
+                "redeemRedirectShortUrl": null,
+                "loginProviderCode": "XGE",
+                "loginProviderPriority": 13,
+                "mobileNetworkCode": []
+            },
+            {
+                "restrictedDevicesWithSIM": [],
+                "loginProviderDisplayName": "YES",
+                "streamingServiceUrl": "https://prod.yes.geforcenow.nvidiagrid.net/",
+                "idpId": "4880Rhf61Q-Mab81qdnnVBFxF1LtOlrgxlaqvnI5Xis",
+                "redeemRedirectUrl": null,
+                "loginProvider": "YES",
+                "redeemRedirectShortUrl": null,
+                "loginProviderCode": "YES",
+                "loginProviderPriority": 14,
+                "mobileNetworkCode": []
+            },
+            {
+                "restrictedDevicesWithSIM": [],
+                "loginProviderDisplayName": "GFN.AM",
+                "streamingServiceUrl": "https://prod.gcs.geforcenow.nvidiagrid.net/",
+                "idpId": "z6t8yLbASocZyaERyRoWvr4cm3P2lN7qZgqNqmPpJOs",
+                "redeemRedirectUrl": null,
+                "loginProvider": "GCS",
+                "redeemRedirectShortUrl": null,
+                "loginProviderCode": "GCS",
+                "loginProviderPriority": 15,
+                "mobileNetworkCode": []
+            }
+        ],
+        "isSupportedCountry": true,
+        "clientCountryCode": "",
+        "loginRequired": false,
+        "loginPreferredProviders": []
+    }
+}
