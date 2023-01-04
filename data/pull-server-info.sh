@@ -1,0 +1,16 @@
+#!/bin/bash
+curl -H "Accept: application/json+v3" https://prod.cloudmatchbeta.nvidiagrid.net/v2/serverInfo -o ./serverInfo/NVIDIA_serverInfo_.json || echo "{ \"status\": \"failed\"}" > ./serverInfo/NVIDIA_serverInfo_.json
+curl -H "Accept: application/json+v3" https://prod.lgu.geforcenow.nvidiagrid.net/v2/serverInfo -o ./serverInfo/LGU_serverInfo_.json || echo "{ \"status\": \"failed\"}" > ./serverInfo/LGU_serverInfo_.json
+curl -H "Accept: application/json+v3" https://prod.sfm.geforcenow.nvidiagrid.net/v2/serverInfo -o ./serverInfo/SFM_serverInfo_.json || echo "{ \"status\": \"failed\"}" > ./serverInfo/SFM_serverInfo_.json
+curl -H "Accept: application/json+v3" https://prod.sbk.geforcenow.nvidiagrid.net/v2/serverInfo -o ./serverInfo/SBK_serverInfo_.json || echo "{ \"status\": \"failed\"}" > ./serverInfo/SBK_serverInfo_.json
+curl -H "Accept: application/json+v3" https://prod.kdd.geforcenow.nvidiagrid.net/v2/serverInfo -o ./serverInfo/KDD_serverInfo_.json || echo "{ \"status\": \"failed\"}" > ./serverInfo/KDD_serverInfo_.json
+curl -H "Accept: application/json+v3" https://prod.twm.geforcenow.nvidiagrid.net/v2/serverInfo -o ./serverInfo/TWM_serverInfo_.json || echo "{ \"status\": \"failed\"}" > ./serverInfo/TWM_serverInfo_.json
+curl -H "Accept: application/json+v3" https://prod.zai.geforcenow.nvidiagrid.net/v2/serverInfo -o ./serverInfo/ZAI_serverInfo_.json || echo "{ \"status\": \"failed\"}" > ./serverInfo/ZAI_serverInfo_.json
+curl -H "Accept: application/json+v3" https://prod.tkc.geforcenow.nvidiagrid.net/v2/serverInfo -o ./serverInfo/TKC_serverInfo_.json || echo "{ \"status\": \"failed\"}" > ./serverInfo/TKC_serverInfo_.json
+curl -H "Accept: application/json+v3" https://prod.str.geforcenow.nvidiagrid.net/v2/serverInfo -o ./serverInfo/STR_serverInfo_.json || echo "{ \"status\": \"failed\"}" > ./serverInfo/STR_serverInfo_.json
+curl -H "Accept: application/json+v3" https://prod.aby.geforcenow.nvidiagrid.net/v2/serverInfo -o ./serverInfo/ABY_serverInfo_.json || echo "{ \"status\": \"failed\"}" > ./serverInfo/ABY_serverInfo_.json
+curl -H "Accept: application/json+v3" https://prod.pnt.geforcenow.nvidiagrid.net/v2/serverInfo -o ./serverInfo/PNT_serverInfo_.json || echo "{ \"status\": \"failed\"}" > ./serverInfo/PNT_serverInfo_.json
+curl -H "Accept: application/json+v3" https://prod.jio.geforcenow.nvidiagrid.net/v2/serverInfo -o ./serverInfo/JIO_serverInfo_.json || echo "{ \"status\": \"failed\"}" > ./serverInfo/JIO_serverInfo_.json
+curl -H "Accept: application/json+v3" https://prod.xge.geforcenow.nvidiagrid.net/v2/serverInfo -o ./serverInfo/XGE_serverInfo_.json || echo "{ \"status\": \"failed\"}" > ./serverInfo/XGE_serverInfo_.json
+curl -H "Accept: application/json+v3" https://prod.yes.geforcenow.nvidiagrid.net/v2/serverInfo -o ./serverInfo/YES_serverInfo_.json || echo "{ \"status\": \"failed\"}" > ./serverInfo/YES_serverInfo_.json
+curl -H "Accept: application/json+v3" https://prod.gcs.geforcenow.nvidiagrid.net/v2/serverInfo -o ./serverInfo/GCS_serverInfo_.json || echo "{ \"status\": \"failed\"}" > ./serverInfo/GCS_serverInfo_.json

@@ -1,0 +1,314 @@
+{
+  "version": {
+    "buildDateTime": "Wed, 14 Dec 2022 21:19:25",
+    "buildVersion": "1.1.3220.1500",
+    "name": "ProvisionManager",
+    "protocolMajorVersion": 8,
+    "protocolMinorVersion": 1,
+    "zoneVersion": "32201500"
+  },
+  "metaData": [
+    {
+      "key": "local-region",
+      "value": "SG StarHub"
+    },
+    {
+      "key": "gfn-regions",
+      "value": "SG StarHub"
+    },
+    {
+      "key": "SG StarHub",
+      "value": "https://sg-starhub.str.geforcenow.nvidiagrid.net"
+    }
+  ],
+  "authType": [
+    7,
+    8,
+    9
+  ],
+  "serverType": 1,
+  "monitorSettings": [
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1376,
+      "heightInPixels": 640,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1376,
+      "heightInPixels": 640,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1920,
+      "heightInPixels": 1080,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1920,
+      "heightInPixels": 1080,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1600,
+      "heightInPixels": 900,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1600,
+      "heightInPixels": 900,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1366,
+      "heightInPixels": 768,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1366,
+      "heightInPixels": 768,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1280,
+      "heightInPixels": 720,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1280,
+      "heightInPixels": 720,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1920,
+      "heightInPixels": 1200,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1920,
+      "heightInPixels": 1200,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1680,
+      "heightInPixels": 1050,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1680,
+      "heightInPixels": 1050,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1440,
+      "heightInPixels": 900,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1440,
+      "heightInPixels": 900,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1280,
+      "heightInPixels": 800,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1280,
+      "heightInPixels": 800,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1280,
+      "heightInPixels": 1024,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1280,
+      "heightInPixels": 1024,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1024,
+      "heightInPixels": 768,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1024,
+      "heightInPixels": 768,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1112,
+      "heightInPixels": 834,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1112,
+      "heightInPixels": 834,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1600,
+      "heightInPixels": 1200,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1600,
+      "heightInPixels": 1200,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    }
+  ],
+  "notificationTopicId": [
+    "SESSION_CHANGE",
+    "APP_CHANGE",
+    "PRODUCT_CHANGE",
+    "SUBSCRIPTION_CHANGE",
+    "ASSET_CHANGE",
+    "GSWS_SYNC",
+    "SERVER_INFO_SYNC",
+    "CONFIGURATION_CHANGE",
+    "LAYOUT_CHANGE",
+    "SECTION_CHANGE",
+    "LINKEDACCOUNT_CHANGE",
+    "PATCHING_EVENT",
+    "NPA-STR-SIN-01"
+  ],
+  "requestStatus": {
+    "statusCode": 1,
+    "statusDescription": "SUCCESS_STATUS",
+    "unifiedErrorCode": 0,
+    "requestId": "8b5ef203-b61c-497c-a3e2-93020bbf9e94",
+    "serverId": "NPA-STR-SIN-01"
+  }
+}

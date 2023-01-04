@@ -1,0 +1,374 @@
+{
+  "version": {
+    "buildDateTime": "Wed, 14 Dec 2022 21:19:25",
+    "buildVersion": "1.1.3220.1500",
+    "name": "ProvisionManager",
+    "protocolMajorVersion": 8,
+    "protocolMinorVersion": 1,
+    "zoneVersion": "32201500"
+  },
+  "metaData": [
+    {
+      "key": "local-region",
+      "value": "EU Northwest"
+    },
+    {
+      "key": "gfn-regions",
+      "value": "US West,US Northwest,US Southwest,US Mountain,US Midwest,US Central,US East,US Northeast,US South,US Southeast,EU West,EU Northwest,EU Northeast,EU Central,EU Southwest,EU Southeast"
+    },
+    {
+      "key": "US West",
+      "value": "https://us-west.cloudmatchbeta.nvidiagrid.net"
+    },
+    {
+      "key": "US Northwest",
+      "value": "https://us-northwest.cloudmatchbeta.nvidiagrid.net"
+    },
+    {
+      "key": "US Southwest",
+      "value": "https://us-southwest.cloudmatchbeta.nvidiagrid.net"
+    },
+    {
+      "key": "US Mountain",
+      "value": "https://us-mountain.cloudmatchbeta.nvidiagrid.net"
+    },
+    {
+      "key": "US Midwest",
+      "value": "https://us-midwest.cloudmatchbeta.nvidiagrid.net"
+    },
+    {
+      "key": "US Central",
+      "value": "https://us-central.cloudmatchbeta.nvidiagrid.net"
+    },
+    {
+      "key": "US East",
+      "value": "https://us-east.cloudmatchbeta.nvidiagrid.net"
+    },
+    {
+      "key": "US Northeast",
+      "value": "https://us-northeast.cloudmatchbeta.nvidiagrid.net"
+    },
+    {
+      "key": "US South",
+      "value": "https://us-south.cloudmatchbeta.nvidiagrid.net"
+    },
+    {
+      "key": "US Southeast",
+      "value": "https://us-southeast.cloudmatchbeta.nvidiagrid.net"
+    },
+    {
+      "key": "EU West",
+      "value": "https://eu-west.cloudmatchbeta.nvidiagrid.net"
+    },
+    {
+      "key": "EU Northwest",
+      "value": "https://eu-northwest.cloudmatchbeta.nvidiagrid.net"
+    },
+    {
+      "key": "EU Northeast",
+      "value": "https://eu-northeast.cloudmatchbeta.nvidiagrid.net"
+    },
+    {
+      "key": "EU Central",
+      "value": "https://eu-central.cloudmatchbeta.nvidiagrid.net"
+    },
+    {
+      "key": "EU Southwest",
+      "value": "https://eu-southwest.cloudmatchbeta.nvidiagrid.net"
+    },
+    {
+      "key": "EU Southeast",
+      "value": "https://eu-southeast.cloudmatchbeta.nvidiagrid.net"
+    }
+  ],
+  "authType": [
+    7,
+    8,
+    9
+  ],
+  "serverType": 1,
+  "monitorSettings": [
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1376,
+      "heightInPixels": 640,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1376,
+      "heightInPixels": 640,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1920,
+      "heightInPixels": 1080,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1920,
+      "heightInPixels": 1080,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1600,
+      "heightInPixels": 900,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1600,
+      "heightInPixels": 900,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1366,
+      "heightInPixels": 768,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1366,
+      "heightInPixels": 768,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1280,
+      "heightInPixels": 720,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1280,
+      "heightInPixels": 720,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1920,
+      "heightInPixels": 1200,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1920,
+      "heightInPixels": 1200,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1680,
+      "heightInPixels": 1050,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1680,
+      "heightInPixels": 1050,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1440,
+      "heightInPixels": 900,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1440,
+      "heightInPixels": 900,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1280,
+      "heightInPixels": 800,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1280,
+      "heightInPixels": 800,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1280,
+      "heightInPixels": 1024,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1280,
+      "heightInPixels": 1024,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1024,
+      "heightInPixels": 768,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1024,
+      "heightInPixels": 768,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1112,
+      "heightInPixels": 834,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1112,
+      "heightInPixels": 834,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1600,
+      "heightInPixels": 1200,
+      "dpi": 0,
+      "framesPerSecond": 60,
+      "sdrHdrMode": 0
+    },
+    {
+      "monitorId": 0,
+      "positionX": 0,
+      "positionY": 0,
+      "widthInPixels": 1600,
+      "heightInPixels": 1200,
+      "dpi": 0,
+      "framesPerSecond": 30,
+      "sdrHdrMode": 0
+    }
+  ],
+  "notificationTopicId": [
+    "SESSION_CHANGE",
+    "APP_CHANGE",
+    "PRODUCT_CHANGE",
+    "SUBSCRIPTION_CHANGE",
+    "ASSET_CHANGE",
+    "GSWS_SYNC",
+    "SERVER_INFO_SYNC",
+    "CONFIGURATION_CHANGE",
+    "LAYOUT_CHANGE",
+    "SECTION_CHANGE",
+    "LINKEDACCOUNT_CHANGE",
+    "PATCHING_EVENT",
+    "NP-STH-02"
+  ],
+  "requestStatus": {
+    "statusCode": 1,
+    "statusDescription": "SUCCESS_STATUS",
+    "unifiedErrorCode": 0,
+    "requestId": "ed751c00-f938-4f3b-941a-4102578ccaae",
+    "serverId": "NP-STH-02"
+  }
+}
