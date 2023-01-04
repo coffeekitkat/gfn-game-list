@@ -1,5 +1,6 @@
 #!/bin/bash
 
+NV_CLIENT_VERSION=2.0.47.125
 GFN_vpcId="*"
 GFN_vpcId2=""
 GFN_lang=en_US
@@ -18,11 +19,10 @@ curl -G -v "https://games.geforce.com/graphql" \
   -H 'NV-Browser-Type: CHROME' \
   -H 'NV-Client-Type: BROWSER' \
   -H 'NV-Client-Streamer: WEBRTC' \
-  -H 'ot-tracer-traceid: 46b378bf36ca8468' \
   -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36' \
   -H 'Content-Type: application/graphql' \
   -H 'Accept: application/json, text/plain, */*' \
   -H 'NV-Device-Type: DESKTOP' \
   -H 'Referer;' \
-  -H 'NV-Client-Version: 2.0.47.125' \
+  -H "NV-Client-Version: $NV_CLIENT_VERSION" \
   -o "./games/"$GFN_vpcId2"_games_.json"
